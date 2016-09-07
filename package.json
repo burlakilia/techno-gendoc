@@ -1,0 +1,18 @@
+{
+  "name": "techno-gendoc",
+  "version": "0.4.0",
+  "description": "Api spec generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootprint": "^0.8.5",
+    "bootprint-swagger": "^0.13.1",
+    "json-schema-faker": "^0.3.6",
+    "preq": "^0.4.10",
+    "swagger-test": "^0.3.0"
+  }
+}
