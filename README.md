@@ -5,7 +5,7 @@
 * `generate(spec, path)` - сгенерировать статичную документацию для api
 	* spec - json спецификация
 	* path - путь по которому положить файлы
-* `runTests(spec)` - роут для запска тестов (используется совместно с express)
+* `runTests(spec)` - роут для запуска тестов (используется совместно с express)
 	* spec - json спецификация API
-* `mock(definition)` - згенерировать мок по описанию json-schema
+* `mock(definition)` - cгенерировать мок по описанию json-schema
  	* definition - json-schema описание
